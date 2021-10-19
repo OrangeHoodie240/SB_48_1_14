@@ -1,0 +1,19 @@
+{
+  "name": "prob-freq-count-pointers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "average-pair.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OrangeHoodie240/SB_48_1_14.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OrangeHoodie240/SB_48_1_14/issues"
+  },
+  "homepage": "https://github.com/OrangeHoodie240/SB_48_1_14#readme"
+}
